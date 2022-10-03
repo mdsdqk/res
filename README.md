@@ -1,2 +1,2 @@
 # res
-Resume
+Resume made with HTML and Tailwind CSS.
